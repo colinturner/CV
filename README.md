@@ -13,7 +13,7 @@ Whether teaching, learning or collaborating, thorough communication is a constan
 When writing a 185-page engineering study for my university final project, I had the opportunity to coordinate a team of 6 group members to produce the final report. Producing a work we could proudly attach our names to required enormous communication and collaboration over a period of several months.
 
 
-In 2014, I moved to Australia for 8 months to research industrial mineral processing mechanisms in a paid internship at one of the country's top technical universities. My task was to take raw data from materials engineering experiments and then replicate those experiments' real-world results in computational simulations of the same processes. The open-ended scope of my work granted me the opportunity to collaborate with academics across the scientific spectrum to develop truly unique research.
+In 2014, I moved to Australia for 8 months to research industrial mineral processing mechanisms in a paid internship at one of the country's top technical universities. My task was to take raw data from materials engineering experiments and then replicate those experiments' real-world results in computational simulations of the same processes. The open-ended scope of my work granted me the opportunity to bring together academics across the scientific spectrum to develop truly unique research.
 
 A year earlier, I had the extraordinary opportunity to gain deep insight into the engineering giant, Rolls-Royce Canada, through a technical internship in Montreal. My task was to produce a 170-page report on the company's annual Research and Development activities. I collaborated with project leaders across the company to develop the report; it was later used to support government research grant applications.
 
@@ -26,11 +26,11 @@ When I discovered programming, I found a beautiful intersection of math and lang
 
 On my technical internship in Australia, I taught myself Ansys Fluent Computational Fluid Dynamics software to model the interactions of simulated air bubbles underwater. When I needed to analyze a video of real-world air bubbles colliding underwater as part of my research, I taught myself advanced picture and video editing to extract the data I wanted.
 
-At children's summer camps in Canada, I became a master of Excel, scheduling, event planning and moving hundreds of people from A to B on a daily basis. When I took over this job, I overhauled the procedures left in place by my predecessor and vastly improved the efficiency of the camp's scheduling processes.
+At children's summer camps in Canada, I became a master of scheduling, event planning and moving hundreds of people from A to B on a daily basis. When I took over this job, I overhauled the procedures left in place by my predecessor and vastly improved the efficiency of the camp's scheduling processes.
 
 In my spare time, I've taught myself audio engineering, sound editing, and piano and guitar to high standards each.
 
-I constantly chase the paths I'm interested in and learn as much as I can along the way. I don't think I'll ever reach a saturation point in my learning; adaptability means we keep growing.
+I constantly chase the paths that I'm interested in and learn as much as I can along the way. I don't think I'll ever reach a saturation point in my learning; adaptability means we keep growing.
 
 
 #### Additional skills
@@ -42,12 +42,13 @@ I constantly chase the paths I'm interested in and learn as much as I can along 
 
 #### Makers Academy (March to June, 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+A 16-week intensive development bootcamp, emphasizing:
+
+- Pair-programming
+- Independent learning
+- Test Driven Development
+- Object Oriented Design
+- Agile
 
 #### McGill University (September 2010 to June 2015)
 
@@ -57,7 +58,7 @@ I constantly chase the paths I'm interested in and learn as much as I can along 
 
 ## Experience
 
-**Department of Mining Engineering, University of New South Wales** (May to Decemeber, 2014)    
+**Department of Mining Engineering, University of New South Wales** (May to December, 2014)    
 *Industrial mineral treatment processes researcher*  
 **Rolls-Royce Canada** (January to May, 2013)   
 *Materials engineering intern*  

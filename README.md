@@ -33,7 +33,10 @@ In my spare time, I've taught myself audio engineering, sound editing, and piano
 I constantly chase the paths I'm interested in and learn as much as I can along the way. I don't think I'll ever reach a saturation point in my learning; adaptability means we keep growing.
 
 
-#### Production
+#### Additional skills
+- Front-end loading experience
+- National Outdoor Leadership School graduate
+- National Lifesaving Society certification
 
 ## Education
 
@@ -52,11 +55,14 @@ I constantly chase the paths I'm interested in and learn as much as I can along 
 - 5 year co-op program incl. 1 year technical internships
 - #1-ranked university in Canada
 
-#### Any other qualifications
-
 ## Experience
 
 **Department of Mining Engineering, University of New South Wales** (May to Decemeber, 2014)    
 *Industrial mineral treatment processes researcher*  
 **Rolls-Royce Canada** (January to May, 2013)   
 *Materials engineering intern*  
+
+## Interests
+- Performing arts
+- Backcountry hiking
+- Paragliding

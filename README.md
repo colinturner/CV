@@ -60,6 +60,7 @@ A 16-week intensive development bootcamp, emphasizing:
 
 **Department of Mining Engineering, University of New South Wales** (May to December, 2014)    
 *Industrial mineral treatment processes researcher*  
+
 **Rolls-Royce Canada** (January to May, 2013)   
 *Materials engineering intern*  
 

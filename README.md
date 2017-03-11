@@ -1,6 +1,10 @@
 ## Colin Turner
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I’m a full stack developer with a uni degree in materials engineering. Proudly polyglot, I teach myself to read, write, and clean up code in diverse human and computer languages.
+
+I offer a technical perspective and flexible ability to pick up new technologies, backed by years of multi-faceted engineering subjects at university, varied technical internships in the materials and mining industries, and a genuine curiosity for the esoteric.
+
+I’m looking for a tech position to grow in: one with complex challenges and space to significantly affect the company’s market products.
 
 ## Skills
 

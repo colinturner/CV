@@ -1,8 +1,10 @@
 ## Colin Turner
 
-I’m a full stack developer with a degree in materials engineering. Proudly polyglot, I teach myself to read, write, and clean up code in diverse human and computer languages. I offer a technical perspective and flexible ability to pick up new technologies, backed by years of multi-faceted engineering subjects at university, varied technical internships in the materials and mining industries, and a genuine curiosity for the esoteric.
+I’m a **Full-Stack Developer** passionate about writing clean and test-driven code, currently looking for **a challenging junior developer position.** Proudly polyglot and self-driven, I teach myself the technologies I need, when I need them.
 
-I’m looking for a tech position to grow in: one with complex challenges, strong mentorship, and space to significantly affect the company’s market products.
+I offer a technical perspective, backed by an engineering degree from Canada's top-ranked university, varied technical internships in the materials and mining industries, and a genuine curiosity for the esoteric.
+
+I’m looking for **a tech position to rapidly grow in**: one with complex challenges, strong mentorship, *a great team*, and space to significantly affect the company’s market products.
 
 ## Skills
 

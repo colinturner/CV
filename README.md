@@ -1,6 +1,6 @@
 ## Colin Turner
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Personal Projects](#personal_projects) [Engineering Work Experience](#experience) | [Interests](#interests)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Personal Projects](#personal_projects) | [Engineering Work Experience](#experience) | [Interests](#interests)
 
 I’m a **Full-Stack Developer** passionate about writing clean and test-driven code, currently looking for **a challenging junior developer position.** Proudly polyglot and self-driven, I teach myself the technologies I need, when I need them.
 

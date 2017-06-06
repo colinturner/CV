@@ -32,7 +32,7 @@ As part of my university's co-op program, I was hired for an 8-month paid intern
 
 I've also had the extraordinary opportunity to complete a materials engineering internship at Rolls-Royce in Montreal. My task was to research and produce a 170-page report on the company's annual Research and Development activities. **I collaborated with project leaders across the company** to learn all I could about the company in the span of a few months. My report was later used to support government research grant applications.
 
-In my summer breaks, I worked as a supervisor at a children's summer camp in Western Canada. There I was tasked with coordinating the daily activities of dozens of staff members. **Active and reactive communication** helped me to develop best methods **to support my team**.
+In my summer breaks, I worked as a supervisor at a children's summer camp in Western Canada. There I was tasked with coordinating the daily activities of dozens of staff members. **Active and reactive communication** helped me to develop best practices **to support my team**.
 
 
 #### Additional skills

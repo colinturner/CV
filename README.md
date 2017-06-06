@@ -16,7 +16,7 @@ I'm a keen autodidact and strive to always keep learning. I picked up **French**
 
 When I discovered programming, I found a beautiful intersection of maths and language; a medium that merged mechanics with poetry. **I taught myself programming to proficiency** before entering Europe's leading web developer bootcamp **to further accelerate my learning**.
 
-On an engineering internship in Australia, **I learned the ins and outs of CFD software** to model the interactions of computer-simulated air bubbles underwater. When I needed to analyse a video of real air bubbles colliding underwater as part of my research, **I taught myself advanced picture and video editing techniques** to extract the data I wanted.
+On an engineering internship in Australia, **I learned the ins and outs of CFD software** to model the interactions of computer-simulated air bubbles underwater. When I needed to analyse videos of real air bubbles colliding underwater as part of my research, **I taught myself advanced picture and video editing techniques** to extract the data I wanted.
 
 At children's summer camps in Canada, **I became a master of scheduling**, event planning and moving hundreds of people from A to B on a daily basis. When I took over that job, I overhauled the procedures left in place by my predecessor and vastly improved the efficiency of the camp's scheduling processes.
 
